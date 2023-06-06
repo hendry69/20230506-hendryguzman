@@ -1,0 +1,141 @@
+503  git init 20230506-hendryguzman
+  504  git remote add origin https://github.com/hendry69/20230506-hendryguzman.git
+  505  git remote -v
+  506  git status
+  507  clear
+  508  ls
+  509  cd 20230506-hendryguzman/
+  510  ls
+  511  clear
+  512  touch comandos.txt main.js index.html
+  513  ls
+  514  git commit 01 de hendryguzman
+  515  git commit "01 de hendryguzman"
+  516  clear
+  517  git commit -m "01 de hendryguzman"
+  518  git push origin master
+  519  clear
+  520  git branch -m master main
+  521  git push origin main
+  522  git branch primer-examen
+  523  git branch 1erexamen
+  524  git status
+  525  git add .
+  526  git status
+  527  git push origin main
+  528  ls
+  529  git push .
+  530  clear
+  531  git branch --set-upstream-to=origin/main main
+  532  git remote add origin https://github.com/hendry69/20230506-hendryguzman.git
+  533  git branch -M main
+  534  git push -u origin main
+  535  clear
+  536  git status
+  537  git add comandos.txt index.html main.js
+  538  git status
+  539  git commit -m "01 de hendryguzman"
+  540  git push -u origin main
+  541  clear
+  542  clear
+  543  ls
+  544  git branch feature01
+  545  ls
+  546  git branch feature01
+  547  git pull -u origin main
+  548  git status
+  549  clear
+  550  git branch feature01
+  551  clear
+  552  ls
+  553  mkdir Terminal Hardware
+  554  ls
+  555  cd Hardware/
+  556  touch resumen.txt
+  557  cd ..
+  558  cd Terminal/
+  559  touch resumen.txt
+  560  cd ..
+  561  clear
+  562  ls -R
+  563  git push -u origin feature01
+  564  git status
+  565  ls
+  566  git add Terminal/ Hardware/
+  567  git commit -m "02 de hendryguzman"
+  568  git push -u origin feature01
+  569  git status
+  570  clear
+  571  git branch feature02 feature01
+  572  git checkout feature02
+  573  clear
+  574  ls
+  575  git pull origin feature02
+  576  git pull origin feature01
+  577  ls
+  578  clear
+  579  git status
+  580  ls
+  581  ls -R
+  582  cd ..
+  583  ;s
+  584  ls
+  585  cd 20230506-hendryguzman/
+  586  ls
+  587  clear
+  588  git push -u origin main
+  589  clear
+  590  git status
+  591  cd ..
+  592  ls
+  593  cd 20230506-hendryguzman/
+  594  git push main feature02
+  595  git push origin feature02
+  596  git checkout main
+  597  ls
+  598  git push origin feature02
+  599  git checkout feature02
+  600  ls
+  601  git checkout main
+  602  git add Hardware/ Terminal/
+  603  git push origin feature02
+  604  git stat
+  605  git status
+  606  git push main feature02
+  607  git checkout feature02
+  608  ls -R
+  609  git checkout origin/feature02
+  610  git status
+  611  ls
+  612  git checkout feature02
+  613  clear
+  614  ls
+  615  git checkout main
+  616  git checkout main
+  617  ls
+  618  cd Hardware/
+  619  nano resumen.txt
+  620  nano resumen.txt
+  621  cd ..
+  622  cd Terminal/
+  623  nano resumen.txt
+  624  nano resumen.txt
+  625  cd ..
+  626  ls
+  627  git add .
+  628  git commit -m "03 de hendryguzman"
+  629  git push -u origin feature02
+  630  git status
+  631  git checkout feature02
+  632  ls
+  633  clear
+  634  git checkout main
+  635  git push -u origin main
+  636  git status
+  637  clear
+  638  git checkout feature02
+  639  git checkout main
+  640  ls
+  641  mv comandos.txt comandosUtilizados.txt
+  642  ls
+  643  history
